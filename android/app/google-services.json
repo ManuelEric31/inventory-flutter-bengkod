@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512738201389",
+    "project_id": "inventory-bengkod-flutter",
+    "storage_bucket": "inventory-bengkod-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512738201389:android:e7a07903a7e47359d34da4",
+        "android_client_info": {
+          "package_name": "com.example.inventory_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUHB0e2kgTOIKeIQrXGrMQe4zSCWDKaC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
